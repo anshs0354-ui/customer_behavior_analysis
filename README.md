@@ -32,10 +32,15 @@ Transaction details
 🛠️ Tools & Technologies
 Tool          	Purpose
 Python=	        Data loading, cleaning, EDA
+
 Pandas, NumPy- 	Data manipulation
+
 MySQL-         	SQL analysis & querying
+
 Power BI-      	Interactive dashboard
+
 Excel-         	Initial inspection (optional)
+
 PowerPoint-    	Business presentation
 
 
