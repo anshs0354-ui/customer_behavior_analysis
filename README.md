@@ -124,35 +124,66 @@ Key Visuals Include:
 *Provided actionable insights to improve sales strategy
 
 ▶️ How to Run the Project
+
 1. Clone the Repository
-   
+   https://github.com/anshs0354-ui/customer_behavior_analysis.git
 
 3. Install Dependencies
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+   !pip install pandas numpy sqlalchemy pymysql
 
 4. Run Python Analysis
 
-Execute the Jupyter Notebook or Python script for:
+->Execute the Jupyter Notebook or Python script for:
 
-EDA
+*EDA
 
-Data cleaning
+*Data cleaning
 
 4. Load Data into MySQL
 
-Create a MySQL database
+*Create a MySQL database
 
-Import cleaned dataset using Python or MySQL Workbench
+*Import cleaned dataset using Python or MySQL Workbench
 
 5. Execute SQL Queries
 
-Run the provided SQL scripts for analysis
+*Run the provided SQL scripts for analysis
 
 6. Open Power BI Dashboard
 
-Connect Power BI to MySQL
+*Connect Power BI to MySQL
 
 Open the .pbix file to explore insights
+
+📂 Repository Structure
+
+├── data/
+│   ├── raw_data.csv
+│   └── cleaned_data.csv
+├── notebooks/
+│   └── eda_and_cleaning.ipynb
+├── sql/
+│   └── analysis_queries.sql
+├── dashboard/
+│   └── customer_behavior_dashboard.pbix
+├── report/
+│   ├── analysis_report.pdf
+│   └── presentation.pptx
+└── README.md
+
+🎯 Skills Demonstrated
+
+*Data Cleaning & Preprocessing
+
+*Exploratory Data Analysis (EDA)
+
+*SQL Queries & Database Integration
+
+*Power BI Dashboarding
+
+*Business Reporting & Presentation
+
+
 
 
 
