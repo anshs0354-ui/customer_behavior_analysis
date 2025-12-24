@@ -72,8 +72,8 @@ PowerPoint-    	Business presentation
 
 Connected Power BI to MySQL database
 
-*Built interactive dashboards featuring:
-*Sales overview
+--Built interactive dashboards featuring:
+--Sales overview
 *Product performance
 *Customer ratings
 *Dynamic filters
