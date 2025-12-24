@@ -31,7 +31,8 @@ Transaction details
 
 🛠️ Tools & Technologies
 Tool          	Purpose
-Python=	        Data loading, cleaning, EDA
+
+Python-	        Data loading, cleaning, EDA
 
 Pandas, NumPy- 	Data manipulation
 
