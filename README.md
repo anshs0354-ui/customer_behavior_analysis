@@ -133,9 +133,11 @@ Key Visuals Include:
 ▶️ How to Run the Project:
 
 1. Clone the Repository
+ 
    https://github.com/anshs0354-ui/customer_behavior_analysis.git
 
 2. Install Dependencies
+ 
    !pip install pandas numpy sqlalchemy pymysql
 
 3. Run Python Analysis
@@ -165,17 +167,29 @@ Open the .pbix file to explore insights.
 📂 Repository Structure:
 
 ├── data/
+
 │   ├── raw_data.csv
+
 │   └── cleaned_data.csv
+
 ├── notebooks/
+
 │   └── eda_and_cleaning.ipynb
+
 ├── sql/
+
 │   └── analysis_queries.sql
+
 ├── dashboard/
+
 │   └── customer_behavior_dashboard.pbix
+
 ├── report/
+
 │   ├── analysis_report.pdf
+
 │   └── presentation.pptx
+
 └── README.md
 
 🎯 Skills Demonstrated:
