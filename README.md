@@ -49,64 +49,110 @@ PowerPoint-    	Business presentation
 2️⃣ Exploratory Data Analysis (EDA)
 
 *Analyzed customer purchase trends
+
 *Examined product and category performance
+
 *Created visualizations for insights
 
 3️⃣ Data Cleaning
 
 *Handled missing values
+
 *Removed duplicate records
+
 *Standardized column names and formats
+
 *Prepared data for SQL and BI tools
 
 4️⃣ SQL Analysis (MySQL)
 
 *Imported cleaned data into MySQL
+
 *Executed SQL queries to:
+
 *Calculate average product ratings
+
 *Identify top-selling products
+
 *Analyze customer behavior
+
 *Perform aggregations and filters
 
 5️⃣ Power BI Dashboard
 
 Connected Power BI to MySQL database
 
---Built interactive dashboards featuring:
---Sales overview
+*Built interactive dashboards featuring:
+
+*Sales overview
+
 *Product performance
+
 *Customer ratings
+
 *Dynamic filters
 
 6️⃣ Reporting & Presentation
 
 *Created a structured analytical report
+
 *Designed a PowerPoint for business stakeholders
 
 📊 Dashboard Preview
 
 Key Visuals Include:
 
-Total sales and revenue trends
+*Total sales and revenue trends
 
-Top products and categories
+*Top products and categories
 
-Rating distribution analysis
+*Rating distribution analysis
 
-Interactive slicers for deep dives
+*Interactive slicers for deep dives
 
 
 ![image alt](https://github.com/anshs0354-ui/customer_behavior_analysis/blob/e23321ee906f1911f7e31d03c26ecfdd0c6ae773/Screenshot%202025-12-24%20110531.png)
 
 📈 Key Insights & Results
 
-Identified high-performing products and categories
+*Identified high-performing products and categories
 
-Discovered customer purchasing trends
+*Discovered customer purchasing trends
 
-Analyzed factors affecting product ratings
+*Analyzed factors affecting product ratings
 
-Provided actionable insights to improve sales strategy
+*Provided actionable insights to improve sales strategy
+
+▶️ How to Run the Project
+1. Clone the Repository
+   
+
+3. Install Dependencies
+pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
+
+4. Run Python Analysis
+
+Execute the Jupyter Notebook or Python script for:
+
+EDA
+
+Data cleaning
+
+4. Load Data into MySQL
+
+Create a MySQL database
+
+Import cleaned dataset using Python or MySQL Workbench
+
+5. Execute SQL Queries
+
+Run the provided SQL scripts for analysis
+
+6. Open Power BI Dashboard
+
+Connect Power BI to MySQL
+
+Open the .pbix file to explore insights
 
 
 
