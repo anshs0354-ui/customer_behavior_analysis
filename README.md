@@ -11,41 +11,42 @@ It covers data loading, cleaning, exploratory analysis, SQL-based querying, dash
 Objective:
 Transform raw customer data into meaningful insights that support data-driven decision-making.
 
-📁 Dataset
+📁 Dataset:
 
-Format: CSV
+->Format: CSV
 
-Data Type: Customer shopping behavior
+->Data Type: Customer shopping behavior
 
-Contents Include:
+->Contents Include:
 
-Customer purchases
+*Customer purchases
 
-Product categories
+*Product categories
 
-Spending amounts
+*Spending amounts
 
-Review ratings
+*Review ratings
 
-Transaction details
+*Transaction details
 
 🛠️ Tools & Technologies
+
 Tool          	Purpose
 
-Python-	        Data loading, cleaning, EDA
+->Python-	        Data loading, cleaning, EDA
 
-Pandas, NumPy- 	Data manipulation
+->Pandas, NumPy- 	Data manipulation
 
-MySQL-         	SQL analysis & querying
+->MySQL-         	SQL analysis & querying
 
-Power BI-      	Interactive dashboard
+->Power BI-      	Interactive dashboard
 
-Excel-         	Initial inspection (optional)
+->Excel-         	Initial inspection (optional)
 
-PowerPoint-    	Business presentation
+->PowerPoint-    	Business presentation
 
 
-🔄 Workflow & Steps
+🔄 Workflow & Steps:
 
 1️⃣ Data Loading
 
@@ -104,7 +105,7 @@ Connected Power BI to MySQL database
 
 *Designed a PowerPoint for business stakeholders
 
-📊 Dashboard Preview
+📊 Dashboard Preview:
 
 Key Visuals Include:
 
@@ -119,7 +120,7 @@ Key Visuals Include:
 
 ![image alt](https://github.com/anshs0354-ui/customer_behavior_analysis/blob/e23321ee906f1911f7e31d03c26ecfdd0c6ae773/Screenshot%202025-12-24%20110531.png)
 
-📈 Key Insights & Results
+📈 Key Insights & Results:
 
 *Identified high-performing products and categories
 
@@ -129,15 +130,15 @@ Key Visuals Include:
 
 *Provided actionable insights to improve sales strategy
 
-▶️ How to Run the Project
+▶️ How to Run the Project:
 
 1. Clone the Repository
    https://github.com/anshs0354-ui/customer_behavior_analysis.git
 
-3. Install Dependencies
+2. Install Dependencies
    !pip install pandas numpy sqlalchemy pymysql
 
-4. Run Python Analysis
+3. Run Python Analysis
 
 ->Execute the Jupyter Notebook or Python script for:
 
@@ -159,9 +160,9 @@ Key Visuals Include:
 
 *Connect Power BI to MySQL
 
-Open the .pbix file to explore insights
+Open the .pbix file to explore insights.
 
-📂 Repository Structure
+📂 Repository Structure:
 
 ├── data/
 │   ├── raw_data.csv
@@ -177,7 +178,7 @@ Open the .pbix file to explore insights
 │   └── presentation.pptx
 └── README.md
 
-🎯 Skills Demonstrated
+🎯 Skills Demonstrated:
 
 *Data Cleaning & Preprocessing
 
