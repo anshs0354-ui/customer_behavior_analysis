@@ -93,5 +93,8 @@ Key Visuals Include:
 *Interactive slicers for deep dives
 
 
+![image alt](https://github.com/anshs0354-ui/customer_behavior_analysis/blob/e23321ee906f1911f7e31d03c26ecfdd0c6ae773/Screenshot%202025-12-24%20110531.png)
+
+
 
 
