@@ -205,6 +205,20 @@ Open the .pbix file to explore insights.
 *Business Reporting & Presentation
 
 
+👤 Author
+
+Ansh Sharma  
+
+CS Student | Aspiring Data Analyst  
+
+I am a student with a strong interest in data analytics and a clear understanding of the Data Analyst role. Through this project, I applied core analytics concepts such as data cleaning, exploratory data analysis, SQL querying, and dashboard creation to convert raw data into meaningful business insights.
+
+📍 India  
+
+🔗 LinkedIn: www.linkedin.com/in/ansh-sharma-393733392 
+
+💻 GitHub: https://github.com/anshs0354-ui
+
 
 
 
