@@ -87,13 +87,26 @@ Connected Power BI to MySQL database
 
 Key Visuals Include:
 
-*Total sales and revenue trends
-*Top products and categories
-*Rating distribution analysis
-*Interactive slicers for deep dives
+Total sales and revenue trends
+
+Top products and categories
+
+Rating distribution analysis
+
+Interactive slicers for deep dives
 
 
 ![image alt](https://github.com/anshs0354-ui/customer_behavior_analysis/blob/e23321ee906f1911f7e31d03c26ecfdd0c6ae773/Screenshot%202025-12-24%20110531.png)
+
+📈 Key Insights & Results
+
+Identified high-performing products and categories
+
+Discovered customer purchasing trends
+
+Analyzed factors affecting product ratings
+
+Provided actionable insights to improve sales strategy
 
 
 
